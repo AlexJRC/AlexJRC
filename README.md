@@ -1,8 +1,6 @@
 <h1 align="center">Olá👋, Eu sou Alex Junio</h1>
 <h3 align="center">Interessado em Ciencia de Dados e Inovação de Tecnologias</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexjrc" alt="alexjrc" /></a> </p>
-
 - 🔭 Atualmente estou trabalhando com Análise e Visualização de dados **Web Scraping**
 
 - 🌱 Atualmente estou aprendendo sobre **Python e Machine Learning**
